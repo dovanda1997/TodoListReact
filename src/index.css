@@ -1,0 +1,100 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.bg-gradient{
+  background-image: linear-gradient(to right, #f43f5e , #0ea5e9);
+}
+.w{
+  width: 550px;
+}
+.mx-auto{
+  margin: 0 auto;
+}
+.bg-white{
+  background-color: white;
+}
+.m-t{
+  margin-top: 24px;
+}
+.p-d{
+  padding: 24px;
+}
+.text-center{
+  text-align: center;
+}
+.font{
+  font-size: 48px;
+}
+.m-b{
+  margin-bottom: 32px;
+}
+.flex{
+  display: flex;
+}
+.gap{
+  gap: 10px;
+}
+.p-d-input{
+  padding: 0 20px;
+}
+.outline{
+  outline: 2px solid #d1c8c8;
+}
+.boder{
+  border: none;
+}
+.flex-1{
+  flex: 1 1 0;
+}
+.m-b{
+  margin-bottom: 20px;
+}
+.jus-content{
+  justify-content: flex-end;
+}
+.p-d-lr{
+  padding: 0 10px;
+}
+.task-item{
+  list-style: none;
+}
+.boder-item{
+  border: 1px solid #d1c8c8;
+}
+.alian-center{
+  align-items: center;
+}
+.justi-center{
+  justify-content: space-between;
+}
+.btn{
+  height: 48px;
+  padding: 15px;
+  border: 0;
+  border-radius: 0;
+  width: 120px;
+}
+
+
+.btn-primary{
+  background-color: blue;
+  color: white;
+}
+
+
+.btn-primary:hover{
+  background-color: rgb(76, 76, 175);
+}
+
+
+.btn-danger{
+  background-color: red;
+  color: white;
+}
+
+
+.btn-danger:hover{
+  background-color: rgb(121, 57, 57);
+}
